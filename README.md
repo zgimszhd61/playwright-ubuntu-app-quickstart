@@ -54,6 +54,8 @@ npx playwright test
 
 以上就是在 Ubuntu 上使用 Playwright 进行自动化测试的一个简单例子。Playwright 支持 Chromium、Firefox 和 WebKit，因此你可以在多个浏览器上运行相同的测试[7][13]。
 
+- 如果遇到因依赖无法使用的问题，可以在这里下载对应的包，然后修复：https://github.com/microsoft/playwright/issues/23296
+
 Citations:
 [1] https://github.com/microsoft/playwright/issues/23296
 [2] https://github.com/microsoft/playwright/issues/11122
